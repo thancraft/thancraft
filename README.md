@@ -27,7 +27,7 @@ https://personal-web-six-khaki.vercel.app/
 
 
 ### Stats
-<details>
+<!-- <details>
   <summary>Codewars</summary>
   <a href="https://www.codewars.com/users/Mednoob"><img src="https://www.codewars.com/users/ahmadfadli5/badges/large" alt="Codewars Stats"/></a><br>
   <a href="https://www.codewars.com/users/Mednoob"><img src="https://github.r2v.ch/codewars?user=ahmadfadli5&top_languages=true" alt="More Codewars Stats"/></a>
@@ -36,4 +36,4 @@ https://personal-web-six-khaki.vercel.app/
 <details>
   <summary>GitHub</summary>
   <a href="https://github.com/thancraft"><img src="https://github-readme-stats.vercel.app/api?username=thancraft&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Stats"/></a>
-</details>
+</details> -->
