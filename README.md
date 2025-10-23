@@ -25,7 +25,7 @@
 <br />
 
 ### CODING ACTIVITY 👨🏻‍💻
- [![wakatime](https://wakatime.com/badge/user/19780356-e4fa-4677-9a7e-e830a2d98a65.svg)](https://wakatime.com/@19780356-e4fa-4677-9a7e-e830a2d98a65)
+  [![wakatime](https://wakatime.com/badge/user/19780356-e4fa-4677-9a7e-e830a2d98a65.svg)](https://wakatime.com/@19780356-e4fa-4677-9a7e-e830a2d98a65)
 
 ### Languages and Tools:
 
