@@ -1,6 +1,6 @@
 
 <img src="https://user-images.githubusercontent.com/80609220/234669319-ef5bd36d-4d5c-43ef-895f-ea26f637ec2a.png">
-======== Hi there, I'm Andri Desmana - aka andes2912 👋 ==========
+======== Hi there, I'm Ahmad fadli - aka thancraft 👋 ==========
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=thancraft&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=thancraft)
@@ -8,24 +8,24 @@
 [![Website](https://img.shields.io/website?color=blue&label=ahmadfadli.vercel.app&style=flat-square&up_message=Online&url=https%3A%2F%2Fandridesmana.vercel.app)][website]
 
 
-## I'm a web developer from Jakarta, Indonesia !
+## I'm a web developer from Maluku, Indonesia !
 
 - 🌱 I’m currently learning Laravel & Flutter
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read and play games
+- 🥅 2026 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play games
 
 ### Connect with me:
 
-[<img align="left" alt="https://andridesmana.vercel.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="andri_desmana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="andri-desmana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="andridesmana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="https://ahmadfadli.vercel.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ahmad_fadli5 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ahmad-fadli5 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="id_ahmadfadli5 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 ### CODING ACTIVITY 👨🏻‍💻
-[![wakatime](https://wakatime.com/badge/user/59b1710c-4294-4e8b-984e-6edcd1ec6092.svg)](https://wakatime.com/@59b1710c-4294-4e8b-984e-6edcd1ec6092)
+[![wakatime](https://wakatime.com/badge/user/19780356-e4fa-4677-9a7e-e830a2d98a65.svg)](https://wakatime.com/@19780356-e4fa-4677-9a7e-e830a2d98a65)
 
 ### Languages and Tools:
 
