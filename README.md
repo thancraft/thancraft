@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Laravel & Flutter
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2026 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play games
+- ⚡ Fun fact: I love to read & play games
 
 ### Connect with me:
 
