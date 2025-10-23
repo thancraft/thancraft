@@ -5,7 +5,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=thancraft&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=thancraft)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ahmad_fadli5?color=blue&label=follow%20%40ahmad_fadli5&logo=twitter&style=flat-square)][twitter]
-[![Website](https://img.shields.io/website?color=blue&label=ahmadfadli.vercel.app&style=flat-square&up_message=Online&url=https%3A%2F%2Ahmadfadli.vercel.app)][website]
+[![Website](https://img.shields.io/website?color=blue&label=ahmadfadli.vercel.app&style=flat-square&up_message=Online&url=https%3A%2F%2Fahmadfadli.vercel.app)][website]
 
 
 ## I'm a web developer from Maluku, Indonesia !
