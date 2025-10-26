@@ -1,6 +1,6 @@
 
 <img src="https://user-images.githubusercontent.com/80609220/234669319-ef5bd36d-4d5c-43ef-895f-ea26f637ec2a.png">
-======== Hi there, I'm Ahmad fadli - aka thancraft 👋 ==========
+======== Hi there, I'm Ahmad fadli - aka thancraft 👋 =========
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=thancraft&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=thancraft)
