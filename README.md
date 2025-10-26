@@ -4,7 +4,7 @@
 
 ###
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0993F7&center=true&width=450&height=50&lines=Hi+there%2C+I'm+Ahmad+fadli+-+aka+thancraft" alt="Typing SVG" /></a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0993F7&center=true&width=500&height=50&lines=Hi+there%2C+I'm+Ahmad+fadli+-+aka+thancraft" alt="Typing SVG" /></a> 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=thancraft&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=thancraft)
@@ -63,7 +63,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=thancraft&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thancraft&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=thancraft&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thancraft&" height="150" alt="activity-graph graph"  />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=thancraft&" height="150" alt="activity-graph graph"  /> -->
 </div>
 
 ###
