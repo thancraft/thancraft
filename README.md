@@ -4,7 +4,7 @@
 
 ###
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0993F7&center=true&width=500&lines=Hi+there%2C+I'm+Ahmad+fadli+-+aka+thancraft" alt="Typing SVG" /></a> 👋 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0993F7&center=true&width=500&lines=Hi+there%2C+I'm+Ahmad+fadli+-+aka+thancraft" alt="Typing SVG" /></a> 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=thancraft&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=thancraft)
