@@ -1,6 +1,6 @@
 
 <img src="https://user-images.githubusercontent.com/80609220/234669319-ef5bd36d-4d5c-43ef-895f-ea26f637ec2a.png">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0993F7&center=true&width=435&lines=Hi+there%2C+I'm+Ahmad+fadli+-+aka+thancraft)](https://git.io/typing-svg) 👋 
+[[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0993F7&center=true&width=435&lines=Hi+there%2C+I'm+Ahmad+fadli+-+aka+thancraft)](https://git.io/typing-svg)](https://readme-typing-svg.demolab.com/demo/?color=0993F7&center=true&lines=Hi+there%2C+I'm+Ahmad+fadli+-+aka+thancraft) 👋 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=thancraft&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=thancraft)
