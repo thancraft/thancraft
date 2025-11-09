@@ -32,9 +32,6 @@
 
 <br />
 
-### CODING ACTIVITY 👨🏻‍💻
-  [![wakatime](https://wakatime.com/badge/user/19780356-e4fa-4677-9a7e-e830a2d98a65.svg)](https://wakatime.com/@19780356-e4fa-4677-9a7e-e830a2d98a65)
-
 ### Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
