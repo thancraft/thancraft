@@ -73,15 +73,6 @@
 ## 🏆 GitHub Trophies
 <div>
 <img src="https://github-profile-trophy.vercel.app/?username=thancraft&theme=dark&no-frame=true"? />
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=thancraft&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=thancraft&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
 
 ###
