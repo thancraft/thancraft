@@ -32,6 +32,12 @@
 
 <br />
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br />
+
+
 ### Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -50,17 +56,21 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-<br /> <br/>
+<br /> 
 
----
-
-###
+# 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thancraft&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=thancraft&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thancraft&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=thancraft&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=thancraft&" height="150" alt="activity-graph graph"  /> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thancraft&" height="150" alt="activity-graph graph"  />
+
+<br />
+
+## 🏆 GitHub Trophies
+<div>
+<img src="https://github-profile-trophy.vercel.app/?username=thancraft&theme=dark&no-frame=true"? />
 </div>
 
 ###
