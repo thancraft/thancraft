@@ -62,8 +62,7 @@
 
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=thancraft&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  /> -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thancraft&layout=pie)]
-  [!(https://github.com/thancraft/github-readme-stats)
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=thancraft&layout=pie"
   <img src="https://streak-stats.demolab.com?user=thancraft&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thancraft&" height="150" alt="activity-graph graph"  />
 
