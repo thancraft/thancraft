@@ -65,6 +65,7 @@
   # 💫 About Me:
 <br>
 ## 🏆 GitHub Trophies
+<div>
 ![](https://github-profile-trophy.vercel.app/?username=thancraft&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
