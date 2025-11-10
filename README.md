@@ -61,6 +61,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thancraft&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=thancraft&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thancraft&" height="150" alt="activity-graph graph"  />
+
+  # 💫 About Me:
+<br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=thancraft&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=thancraft&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=thancraft&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
 
 ###
