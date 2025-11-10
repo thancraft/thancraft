@@ -32,6 +32,12 @@
 
 <br />
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br />
+
+
 ### Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -68,8 +74,6 @@
 <div>
 <img src="https://github-profile-trophy.vercel.app/?username=thancraft&theme=dark&no-frame=true"? />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=thancraft&limit=5&theme=dark&combine_all_yearly_contributions=true)
