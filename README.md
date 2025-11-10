@@ -66,7 +66,7 @@
 <br>
 ## 🏆 GitHub Trophies
 <div>
-![](https://github-profile-trophy.vercel.app/?username=thancraft&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=thancraft&theme=dark&no-frame=true"? />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
