@@ -56,11 +56,9 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-<br /> <br/>
+<br /> 
 
----
-
-## 🏆 GitHub Trophies
+# 📊 GitHub Stats:
 
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=thancraft&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  /> -->
