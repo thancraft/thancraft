@@ -62,7 +62,7 @@
 <div align = "center">
   <img src="https://thancraft-readme-stats.vercel.app/api/top-langs?username=thancraft&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=150&theme=dracula&hide_border=false&order=2" height="350" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=thancraft&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thancraft&" height="150" alt="activity-graph graph"  />
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <!-- <div align="center">
